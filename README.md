@@ -1,16 +1,22 @@
-## Hi there 👋
+🎓 Estudiante de **2º curso del Grado Superior en Desarrollo de Aplicaciones Web (DAW)** en Mislata, Valencia.
+Actualmente estoy formándome en desarrollo web y trabajando principalmente con:
 
-<!--
-**ilymaiki/ilymaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologías
 
-Here are some ideas to get you started:
+* ☕ **Java**
+* 🟦 **TypeScript**
+* 🎨 **SASS**
+* 🌐 **Desarrollo de Aplicaciones Web**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Idiomas
+
+* 🇪🇸 Español
+* 🇬🇧 Inglés
+* 🇷🇴 Rumano
+
+### 📫 Contacto
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/daninv/)
+* ✉️ [daninvv6@gmail.com](mailto:daninvv6@gmail.com)
+
+---
