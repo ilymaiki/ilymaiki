@@ -12,5 +12,5 @@
 ### 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/daninv/)
-- ✉️ [daninvv6@gmail.com](mailto:daninvv6@gmail.com
+- ✉️ [daninvv6@gmail.com](mailto:daninvv6@gmail.com)
 - 🕊️ [X](https://x.com/ilymaiki)
