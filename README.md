@@ -1,6 +1,6 @@
 🎓 **2nd-year student (2DAW)** pursuing a **Higher Vocational Education Degree** in Spain.
 
-🪟 Currently developing **[IlyOS](https://github.com/ilymaiki/ilyos)**, an open-source AME Wizard Playbook focused on Windows customization and optimization.
+🪟 Currently developing **[ilyOS](https://github.com/ilymaiki/ilyOS)**, an open-source AME Wizard Playbook focused on Windows customization and optimization.
 
 ### 🌍 Languages
 
